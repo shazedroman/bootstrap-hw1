@@ -1,0 +1,12 @@
+.box{
+	height: 100vh;
+	background-color: red;
+}
+.layout{
+	width: 50%;
+	height: 200px;
+	float: left;
+	background-color: orange;
+	margin-bottom: 1px;
+	border: 1px solid white;
+}
